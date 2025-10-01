@@ -1,0 +1,89 @@
+@media screen and (max-width: 1700px) {
+  .shoes {
+    width: 600px;
+  }
+}
+
+@media screen and (max-width: 1500px) {
+  .justify-center-lg {
+    justify-content: center !important;
+  }
+
+  .mt-6-lg {
+    margin-top: 60px;
+  }
+  .shoes {
+    width: 500px;
+  }
+  .flex-column-lg {
+    flex-direction: column;
+  }
+  .align-center-lg {
+    align-items: center;
+  }
+
+  .text-center-lg {
+    text-align: center;
+  }
+
+  .flex-lg {
+    display: flex;
+  }
+
+  .justify-center-lg {
+    justify-content: center;
+  }
+  .w-100-lg {
+    width: 100%;
+  }
+  .w-80-lg {
+    margin: auto;
+    width: 80%;
+  }
+
+  .mt-1-lg {
+    margin-top: 10px;
+  }
+  #summary {
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .sale-big {
+    font-size: 50px;
+  }
+  .sale-slogan {
+    font-size: 20px;
+  }
+  .sale-time {
+    font-size: 16px;
+  }
+  .social-icon {
+    display: none;
+  }
+  #nav-bar-close {
+    box-shadow: none;
+    background: transparent;
+  }
+
+  #nav-bar-open {
+    box-shadow: none;
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .shoes {
+    width: 300px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .sale-big {
+    font-size: 40px;
+  }
+  .sale-slogan {
+    font-size: 16px;
+  }
+}
